@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Setup1/Setup1.vdproj" Type="Installer">
+    <Build Solution="Release|*" />
+  </Project>
+  <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="8f3276bc-8591-4465-aa2c-6319ac8d3243" />
+</Solution>
